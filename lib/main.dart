@@ -10,6 +10,8 @@ void main() => runApp( MaterialApp(
       body: Center(
         child: Text('YII'),
     ),
+        column:Children
+        [Text('bye')],
     )
 
 
